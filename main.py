@@ -32,7 +32,7 @@ SKY_BLUE = (235, 206, 135)
 
 model_path = "pose_landmarker_full.task" # Assumes the model is in the same folder
 
-)
+
 
 # ------------------ MEDIAPIPE ------------------
 
