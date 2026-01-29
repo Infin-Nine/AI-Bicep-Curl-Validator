@@ -23,7 +23,7 @@ It calculates the angle of the elbow joint to count repetitions and monitors the
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/AI-Bicep-Curl-Validator.git](https://github.com/YOUR_USERNAME/AI-Bicep-Curl-Validator.git)
+    git clone https://github.com/Infin-Nine/AI-Bicep-Curl-Validator.git
     cd AI-Bicep-Curl-Validator
     ```
 
